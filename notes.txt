@@ -1,0 +1,4 @@
+1.0.0
+first number represents big, code-breaking changes
+second represents large features - a significant feature but it doesnt have breaking changes
+third represents small things - security patches, re-organization of code, etc

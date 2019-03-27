@@ -1,0 +1,25 @@
+{
+  "name": "bcox-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fartandgohome/Bcox-Js-Footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Bryce Cox <bryce.cox77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fartandgohome/Bcox-Js-Footer/issues"
+  },
+  "homepage": "https://github.com/fartandgohome/Bcox-Js-Footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
